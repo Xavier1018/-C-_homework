@@ -1,2 +1,2 @@
 # C++_homework
-This is the place to store C++ assignments
+這個存儲庫包含了我在C++課程期間完成的作業。

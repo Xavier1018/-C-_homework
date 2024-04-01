@@ -23,7 +23,7 @@ feat: 實現了xxx功能
 
 fix: 修正了xxx錯誤
 
-docs: 更新了README
+update: 更新了README
 
 
 

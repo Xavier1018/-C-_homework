@@ -12,15 +12,25 @@
 TYPE 可以是下列之一：
 
 feat: 新功能
+
 fix: 修正bug
+
 refactor: 重構代碼
+
 docs: 更新文檔
+
 style: 格式化程式碼
+
 test: 添加或修改測試
+
 chore: 其他雜項變更
+
 SUBJECT 是一個簡短的描述，描述此次提交的目的或變更內容。例如：
+
 feat: 實現了xxx功能
+
 fix: 修正了xxx錯誤
+
 update: 更新了xxx
 
 
